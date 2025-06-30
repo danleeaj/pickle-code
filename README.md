@@ -30,4 +30,5 @@ A simple HTML file was written and hosted in Github [here](https://danleeaj.gith
 Feel free to contact me at [anjie.wav@gmail.com], to talk about anything!
 
 Github: [danleeaj](https://github.com/danleeaj)
+
 LinkedIn: [An Jie Lee](https://www.linkedin.com/in/anjie-lee)
